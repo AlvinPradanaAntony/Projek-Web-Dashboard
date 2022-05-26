@@ -26,7 +26,7 @@
 
 
 
-<h3>🛠 To Learn</h3>
+<h3>🛠 Proses belajar </h3>
 
 - 🔧 &nbsp; Firebase
 
